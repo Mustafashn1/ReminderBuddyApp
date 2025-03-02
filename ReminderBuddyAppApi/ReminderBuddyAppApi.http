@@ -1,0 +1,6 @@
+@ReminderBuddyAppApi_HostAddress = http://localhost:5104
+
+GET {{ReminderBuddyAppApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
